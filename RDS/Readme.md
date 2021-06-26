@@ -1,4 +1,21 @@
-Hello RDS
-<br/>
+# Relational Database Service (RDS) 
+## Info : Serverless AWS Aurora database is not Public
 
-![alt text](https://github.com/RaghuRahut/AWS/blob/main/RDS/Images/i001.jpg?raw=true)
+* Amazon Aurora comes with two Capacity types *Provision* and *serverless*
+![alt text](https://github.com/RaghuRahut/AWS/blob/main/RDS/Images/awsauroraCapacityType.PNG?raw=true)
+* **Serverless** are not public.Only if **Provision** is choosen, you can configure *public access*
+![alt text](https://github.com/RaghuRahut/AWS/blob/main/RDS/Images/awsauroraPublicAccess.PNG?raw=true)
+
+
+## Info : Roles are auto created based on the capacity types as shown below* 
+![alt text](https://github.com/RaghuRahut/AWS/blob/main/RDS/Images/awsaurora.PNG?raw=true)
+
+
+## Error : Cannot create DB Intance, if VPC doesnot support DNS hostname and resolution.
+![alt text](https://github.com/RaghuRahut/AWS/blob/main/RDS/Images/ErrorCreateDatabase.PNG?raw=true)
+![alt text](https://github.com/RaghuRahut/AWS/blob/main/RDS/Images/ErrorCreateDatabase1.PNG?raw=true)
+
+## Info : Option Groups and Parameter Groups
+* option groups - Additional features of DB Engine
+* parameter groups - Manage DB engine configuration
+
