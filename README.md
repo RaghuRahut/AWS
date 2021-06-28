@@ -14,3 +14,6 @@
 ## Error : Cannot create DB Intance, if VPC doesnot support DNS hostname and resolution.
 ![alt text](https://github.com/RaghuRahut/AWS/blob/main/RDS/Images/ErrorCreateDatabase.PNG?raw=true)
 ![alt text](https://github.com/RaghuRahut/AWS/blob/main/RDS/Images/ErrorCreateDatabase1.PNG?raw=true)
+
+## Info : AWS RDS Proxies Introduction video link 
+[AWS RDS Proxy](https://www.youtube.com/watch?v=eMzCI7S1P9M&t=19s)
