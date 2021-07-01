@@ -19,3 +19,7 @@
 * option groups - Additional features of DB Engine
 * parameter groups - Manage DB engine configuration
 
+## Info : AWS RDS Proxies Introduction video link 
+[AWS RDS Proxy](https://www.youtube.com/watch?v=eMzCI7S1P9M&t=19s)
+
+
